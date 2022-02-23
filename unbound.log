@@ -1,0 +1,34 @@
+[1488985706] C:\Program Files (x86)\Unbound\unbound.exe[2888:0] error: unable to open C:\Program Files\Unbound\root.key for reading: No such file or directory
+[1488985706] C:\Program Files (x86)\Unbound\unbound.exe[2888:0] error: error reading auto-trust-anchor-file: C:\Program Files\Unbound\root.key
+[1488985706] C:\Program Files (x86)\Unbound\unbound.exe[2888:0] error: validator: error in trustanchors config
+[1488985706] C:\Program Files (x86)\Unbound\unbound.exe[2888:0] error: validator: could not apply configuration settings.
+[1488985706] C:\Program Files (x86)\Unbound\unbound.exe[2888:0] error: module init for module validator failed
+[1488985706] C:\Program Files (x86)\Unbound\unbound.exe[2888:0] fatal error: failed to setup modules
+[1488985815] C:\Program Files (x86)\Unbound\unbound.exe[2656:0] error: unable to open C:\Program Files\Unbound\root.key for reading: No such file or directory
+[1488985815] C:\Program Files (x86)\Unbound\unbound.exe[2656:0] error: error reading auto-trust-anchor-file: C:\Program Files\Unbound\root.key
+[1488985815] C:\Program Files (x86)\Unbound\unbound.exe[2656:0] error: validator: error in trustanchors config
+[1488985815] C:\Program Files (x86)\Unbound\unbound.exe[2656:0] error: validator: could not apply configuration settings.
+[1488985815] C:\Program Files (x86)\Unbound\unbound.exe[2656:0] error: module init for module validator failed
+[1488985815] C:\Program Files (x86)\Unbound\unbound.exe[2656:0] fatal error: failed to setup modules
+[1488985874] C:\Program Files (x86)\Unbound\unbound.exe[732:0] error: unable to open C:\Program Files\Unbound\root.key for reading: No such file or directory
+[1488985874] C:\Program Files (x86)\Unbound\unbound.exe[732:0] error: error reading auto-trust-anchor-file: C:\Program Files\Unbound\root.key
+[1488985874] C:\Program Files (x86)\Unbound\unbound.exe[732:0] error: validator: error in trustanchors config
+[1488985874] C:\Program Files (x86)\Unbound\unbound.exe[732:0] error: validator: could not apply configuration settings.
+[1488985874] C:\Program Files (x86)\Unbound\unbound.exe[732:0] error: module init for module validator failed
+[1488985874] C:\Program Files (x86)\Unbound\unbound.exe[732:0] fatal error: failed to setup modules
+[1488985948] C:\Program Files (x86)\Unbound\unbound.exe[332:0] info: start of service (unbound 1.6.1).
+[1488986030] C:\Program Files (x86)\Unbound\unbound.exe[332:0] info: service stopped (unbound 1.6.1).
+[1488986036] C:\Program Files (x86)\Unbound\unbound.exe[280:0] info: start of service (unbound 1.6.1).
+[1489059115] C:\Program Files (x86)\Unbound\unbound.exe[1016:0] info: start of service (unbound 1.6.1).
+[1489592150] C:\Program Files (x86)\Unbound\unbound.exe[1800:0] info: start of service (unbound 1.6.1).
+[1489592471] C:\Program Files (x86)\Unbound\unbound.exe[132:0] info: start of service (unbound 1.6.1).
+[1489593147] C:\Program Files (x86)\Unbound\unbound.exe[2092:0] info: start of service (unbound 1.6.1).
+[1489594037] C:\Program Files (x86)\Unbound\unbound.exe[1676:0] info: start of service (unbound 1.6.1).
+[1490079548] C:\Program Files (x86)\Unbound\unbound.exe[2068:0] info: start of service (unbound 1.6.1).
+[1492697831] C:\Program Files (x86)\Unbound\unbound.exe[2144:0] info: start of service (unbound 1.6.1).
+[1492698196] C:\Program Files (x86)\Unbound\unbound.exe[2052:0] info: start of service (unbound 1.6.1).
+[1492699901] C:\Program Files (x86)\Unbound\unbound.exe[2148:0] info: start of service (unbound 1.6.1).
+[1492705216] C:\Program Files (x86)\Unbound\unbound.exe[2092:0] info: start of service (unbound 1.6.1).
+[1492952196] C:\Program Files (x86)\Unbound\unbound.exe[2196:0] info: start of service (unbound 1.6.1).
+[1493039194] C:\Program Files (x86)\Unbound\unbound.exe[2196:0] info: service stopped (unbound 1.6.1).
+[1493040616] C:\Program Files (x86)\Unbound\unbound.exe[3332:0] info: start of service (unbound 1.6.1).
